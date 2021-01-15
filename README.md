@@ -1,1 +1,1 @@
-# Mihira-s-New-Virtual-pet
+# VirtualPet2
